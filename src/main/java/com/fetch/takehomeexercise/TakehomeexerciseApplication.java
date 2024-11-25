@@ -1,0 +1,13 @@
+package com.fetch.takehomeexercise;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TakehomeexerciseApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TakehomeexerciseApplication.class, args);
+	}
+
+}
